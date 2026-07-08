@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  DBen Sparkle update feed. Regenerated on each release by the dben release
+  workflow (generate_appcast). Do not edit by hand: manual edits invalidate the
+  EdDSA signatures. Served at https://starkross.github.io/dben-releases/appcast.xml
+-->
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>DBen</title>
+    <link>https://starkross.github.io/dben-releases/appcast.xml</link>
+    <description>DBen updates</description>
+    <language>en</language>
+  </channel>
+</rss>
