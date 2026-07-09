@@ -3,14 +3,14 @@
     <channel>
         <title>dben</title>
         <item>
-            <title>0.1.1</title>
-            <pubDate>Thu, 09 Jul 2026 10:24:30 +0000</pubDate>
+            <title>0.1.2</title>
+            <pubDate>Thu, 09 Jul 2026 13:30:42 +0000</pubDate>
             <link>https://github.com/starkross/dben-releases</link>
-            <sparkle:version>0.1.1</sparkle:version>
-            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:version>0.1.2</sparkle:version>
+            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/starkross/dben-releases/releases/download/v0.1.1/dben-0.1.1.dmg" length="6780612" type="application/octet-stream" sparkle:edSignature="QJavEkR0dog/lCwPI6AAfW7s1GoHs2ERHde52Ceh2z0RQlqBwc6FdrtofQoB5Urc7GVR+QSEybvDvTgC8jKDDw=="/>
+            <enclosure url="https://github.com/starkross/dben-releases/releases/download/v0.1.2/dben-0.1.2.dmg" length="6722890" type="application/octet-stream" sparkle:edSignature="i5Am2gnLKccpwSlOf8pAq/k0YrmHcdAL7BTmdmyDmpW+GFHlI1LWl0eisngrMndPCjdl07xR0gbcZjYZGvoMAg=="/>
         </item>
     </channel>
 </rss>
