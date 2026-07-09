@@ -1,14 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-  DBen Sparkle update feed. Regenerated on each release by the dben release
-  workflow (generate_appcast). Do not edit by hand: manual edits invalidate the
-  EdDSA signatures. Served at https://starkross.github.io/dben-releases/appcast.xml
--->
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <channel>
-    <title>DBen</title>
-    <link>https://starkross.github.io/dben-releases/appcast.xml</link>
-    <description>DBen updates</description>
-    <language>en</language>
-  </channel>
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>dben</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Thu, 09 Jul 2026 00:19:15 +0000</pubDate>
+            <link>https://github.com/starkross/dben-releases</link>
+            <sparkle:version>0.1.0</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/starkross/dben-releases/releases/download/v0.1.0/dben-0.1.0.dmg" length="6773941" type="application/octet-stream" sparkle:edSignature="ARXU5+xsahdp/esPpa5MPdAFXMQlEgNEudqeLsEDKNXE0YTGBEFd2xWIR7khkNvTdOxtNox0xhP8fQDB+7SbCA=="/>
+        </item>
+    </channel>
 </rss>
